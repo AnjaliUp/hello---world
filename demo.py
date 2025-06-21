@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """Module to calculate the area of a circle."""
 
 def area_of_circle(radius):
@@ -20,3 +21,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+print("hello world")
+>>>>>>> 3f1519c46e24a9ab7f38fb0e829fb844f07cbc3f
